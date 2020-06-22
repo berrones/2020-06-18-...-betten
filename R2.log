@@ -48,3 +48,52 @@ fatal: not a git repository (or any of the parent directories): .git
 [1] 128
 fatal: not a git repository (or any of the parent directories): .git
 [1] 128
+From https://github.com/berrones/2020-06-18-...-betten
+ * branch            master     -> FETCH_HEAD
+   0ea6cbd..83ed3e9  master     -> origin/master
+Updating 0ea6cbd..83ed3e9
+Fast-forward
+ newGit | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 newGit
+[1] 0
+warning: LF will be replaced by CRLF in R2.log.
+The file will have its original line endings in your working directory
+[1] 0
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	renamed:    R/R.R -> R.R
+	renamed:    R/R2.R -> R2.R
+	new file:   R2.log
+	new file:   fromGit - Copy (4) - Copy - Copy
+	new file:   fromGit - Copy (5) - Copy - Copy
+	new file:   fromGit - Copy (6) - Copy - Copy
+	new file:   fromGit - Copy (7) - Copy - Copy
+	new file:   fromGit - Copy (8) - Copy - Copy
+	new file:   fromGit - Copy (9) - Copy - Copy
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   R2.log
+
+[1] 0
+[master bef9d80] fromAuto
+ 9 files changed, 59 insertions(+), 2 deletions(-)
+ rename R/R.R => R.R (78%)
+ rename R/R2.R => R2.R (75%)
+ create mode 100644 R2.log
+ create mode 100644 fromGit - Copy (4) - Copy - Copy
+ create mode 100644 fromGit - Copy (5) - Copy - Copy
+ create mode 100644 fromGit - Copy (6) - Copy - Copy
+ create mode 100644 fromGit - Copy (7) - Copy - Copy
+ create mode 100644 fromGit - Copy (8) - Copy - Copy
+ create mode 100644 fromGit - Copy (9) - Copy - Copy
+[1] 0
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/berrones/2020-06-18-...-betten.git
+   83ed3e9..bef9d80  master -> master
+[1] 0
