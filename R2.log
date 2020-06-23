@@ -1339,3 +1339,30 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 To https://github.com/berrones/2020-06-18-...-betten.git
    7ac9581..925ece6  master -> master
 [1] 0
+From https://github.com/berrones/2020-06-18-...-betten
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[1] 0
+warning: LF will be replaced by CRLF in R2.log.
+The file will have its original line endings in your working directory
+[1] 0
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   R2.log
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   R2.log
+
+[1] 0
+[master 4b8d1fb] fromAuto
+ 1 file changed, 27 insertions(+)
+[1] 0
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+To https://github.com/berrones/2020-06-18-...-betten.git
+   925ece6..4b8d1fb  master -> master
+[1] 0
